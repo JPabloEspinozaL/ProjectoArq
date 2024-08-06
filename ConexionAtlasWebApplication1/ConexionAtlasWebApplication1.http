@@ -1,0 +1,6 @@
+@ConexionAtlasWebApplication1_HostAddress = http://localhost:5190
+
+GET {{ConexionAtlasWebApplication1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
